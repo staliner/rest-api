@@ -1,0 +1,29 @@
+[
+	{
+		"nama" : "Rahmat Hidayat",
+		"umur" : 18,
+		"nip"  : "455",
+		"lulus" : true,
+		"hobby" : [
+			"coding","gaming"
+		],
+		"pembimbing" : {
+			"pembimbing1" : "Doddy Ferdiansyah",
+			"pembimbing2" : "Erik Doank"
+		}
+	},
+
+	{
+		"nama" : "Edward Connor",
+		"umur" : 24,
+		"nip"  : "923455",
+		"lulus" : true,
+		"hobby" : [
+			"coding","gaming","parkour"
+		],
+		"pembimbing" : {
+			"pembimbing1" : "Doddy Ferdiansyah",
+			"pembimbing2" : "Erik Doank"
+		}
+	}
+]
